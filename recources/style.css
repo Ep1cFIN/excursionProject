@@ -2,8 +2,11 @@ html{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     padding: 0;
-    margin: auto;
+    margin: 0;
     text-align: center;
+}
+.center{
+    margin: auto;
 }
 h1{
     font-weight: normal;
